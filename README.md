@@ -1,9 +1,11 @@
-#terminal-config-files
+# terminal-config-files
 
-Color schme for terminal and config files for git of the How to Use Git and Github Udacity 
+Instuctions for color scheme for terminal and config files for git of the course How to Use Git and Github from Udacity.
+
+Lessons with instructions:
 
 * Lesson 1: Navigating a Commit History
-* Lesson numbers: 28, 29, 30
+* Videos: 28, 29, 30
 
 Steps 
 
